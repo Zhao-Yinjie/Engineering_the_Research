@@ -1,1 +1,1 @@
-![Engineering the Research](./Engineering the Research.png)
+![Engineering the Research](./Engineering_the_Research.png)
